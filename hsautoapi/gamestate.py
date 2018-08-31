@@ -1,0 +1,1 @@
+from hslog import LogParser
